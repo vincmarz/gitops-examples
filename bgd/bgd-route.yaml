@@ -7,7 +7,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: "bgs.apps.ocp4.local"
+  host: "bgd.apps.ocp4.local"
   port:
     targetPort: 8080
   to:
